@@ -33,3 +33,45 @@ int main()
     return 0;
 
 }
+/* OUTPUT
+CHOOSE OPERATION
+1.SUM
+2.DIFFERENCE
+3.MULTIPLICATION
+4.DIVISION
+Enter your choice:1
+enter a number:10
+enter number 2:20
+SUM:30
+do you want to continue?(y/n):Y
+CHOOSE OPERATION
+1.SUM
+2.DIFFERENCE
+3.MULTIPLICATION
+4.DIVISION
+Enter your choice:2
+enter a number:20
+enter number 2:10
+DIFFERENCE:10
+do you want to continue?(y/n):Y
+CHOOSE OPERATION
+1.SUM
+2.DIFFERENCE
+3.MULTIPLICATION
+4.DIVISION
+Enter your choice:3
+enter a number:5
+enter number 2:10
+MULTIPLICATION:50
+do you want to continue?(y/n):Y
+CHOOSE OPERATION
+1.SUM
+2.DIFFERENCE
+3.MULTIPLICATION
+4.DIVISION
+Enter your choice:4
+enter a number:10
+enter number 2:5
+DIVISION:2
+do you want to continue?(y/n):N
+*/
